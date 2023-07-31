@@ -76,7 +76,8 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://people.epfl.ch/private/common/photos/links/357236.jpg?ts=1690641364
+#https://scontent.fotp1-2.fna.fbcdn.net/v/t1.6435-9/84657913_2854252601301636_7935176551530758144_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=WjHJozMhqAoAX-8xfXo&_nc_ht=scontent.fotp1-2.fna&oh=00_AfCzPAjtwqw-o-M_Peel4u4wu0k1VhbEbOJpyRANvcRBww&oe=64EC984E
 
 # boolean type, the global switch for TOC in posts.
 toc: true
