@@ -35,7 +35,7 @@ $ |S - \displaystyle \sum_{i = 1}^{n} f(\xi_i)\Delta_i| < \epsilon $.
 
 Now that we got the "formal" definition out of the way, let's develop a more intuitive approach while also getting back to our example. Let's forget for now about the $\frac{1}{n}$ part and look just at $2^{\frac{k}{n}}$. Below we have a plot of the function $2^x$.
 
-![Plot](/_posts/assets/Figure_1.png){: width="400" height="400" }
+![Plot](/assets/img/sample/Figure_1.png){: width="400" height="400" }
 
 Let's try to approximate the area under the curve using rectangles.Let's suppose we want to make our approximation better and better by constructing more and more rectangles. We all know that this is the main idea behind the integral. Let's get back to our initial limit.
 
