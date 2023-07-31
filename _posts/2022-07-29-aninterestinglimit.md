@@ -52,7 +52,7 @@ Note that we integrate from 0 to 1 because of the $\frac{1}{n}$ part. This is no
 Solving it we obtain:
 $\left. \frac{2^x}{ln2} \right|_{0}^{1} = \frac{2}{ln2} - \frac{1}{ln2} = \frac{1}{ln2}$.
 
-Therefore
+Therefor
 
 $\displaystyle \lim_{n \to \infty} (\frac{1}{n} \sum_{k = 0}^{n} 2^{\frac{k}{n}}) = \frac{1}{ln2}$.
 
