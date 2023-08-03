@@ -8,4 +8,3 @@ math: true
 
 ### Let's have fun with basic linear algebra
 
-TBD
