@@ -1,6 +1,6 @@
 ---
 title: An interesting limit
-date: 2022-07-29 12:00:00 -500
+date: 2023-07-29 12:00:00 -500
 categories: [mathematics,calculus]
 tage: [limit,integral,riemannsum]
 math: true
