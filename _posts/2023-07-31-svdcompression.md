@@ -64,7 +64,7 @@ After choosing the rank we want to approximate with, we simply use the following
 ```python
 blue_approx = blueU[:,:rank] @ blueS[:rank, :rank] @ blueV[:rank, :]
 ```
-After doing the exact same thing for the other green and blue channels we only need to merge them.
+After doing the exact same thing for the other green and red channels we only need to merge them.
 ```python
 merged_approx = cv2.merge([blue_approx, green_approx, red_approx])
 ```
